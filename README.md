@@ -1,1 +1,1 @@
-# Self-Balancing-Robot
+# Self-Balancing-Robot-with-MATLAB-3D-Simulation: The attached project report contains complete details of components use to create a self balancing robot. The report includes Arduino IDE sensor caliberation, DC motors testing code and the code for self balancing robot. All the details and some references also are mentioned in report.
